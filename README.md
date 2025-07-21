@@ -25,9 +25,7 @@
 
 ## 📫 Contacto
 
-- 🌐 [Mi portafolio](https://tusitio.com)
-- ✉️ jefer@ejemplo.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/fixdet2024)
+- ✉️ draculala50@gmail.com
 
 ---
 
